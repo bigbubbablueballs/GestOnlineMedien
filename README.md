@@ -1,5 +1,7 @@
 # GestOnlineMedien
 
+Galaxy Generator (Jacob Finch, Xara Beitinger)
+
 - Description about the algorithm used:
   The setup() function initializes the canvas and sets initial conditions.
   The draw() function is called continuously by Processing. It updates the angles, calculates the new positions for the circles influenced by the mouse, and draws the circles     
